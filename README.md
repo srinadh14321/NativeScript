@@ -14,7 +14,7 @@
 
 </p>
 
-[NativeScript](http://www.nativescript.org) empowers you to access native APIs from JavaScript directly. Currently iOS, Android, and visionOS runtimes are provided for rich mobile development across a variety of diverse use cases.
+[NativeScript](http://nativescript.org) empowers you to access native APIs from JavaScript directly. Currently iOS, Android, and visionOS runtimes are provided for rich mobile development across a variety of use cases.
 
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNativeScript%2FNativeScript.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FNativeScript%2FNativeScript?ref=badge_large)
